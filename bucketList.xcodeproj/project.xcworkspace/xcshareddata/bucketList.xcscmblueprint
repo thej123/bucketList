@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "240670E24500C910051CF7FEE43DDD686F6E8A1D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "240670E24500C910051CF7FEE43DDD686F6E8A1D" : 9223372036854775807,
+    "6D9DC19AA2D4B07E76CB55353837C22265D08D1C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F6FA556A-E290-4879-9BE1-B381CA8A50BB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "240670E24500C910051CF7FEE43DDD686F6E8A1D" : "bucketList\/",
+    "6D9DC19AA2D4B07E76CB55353837C22265D08D1C" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "bucketList",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "bucketList.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thej123\/bucketList.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "240670E24500C910051CF7FEE43DDD686F6E8A1D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thej123\/CodingDojo-IOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6D9DC19AA2D4B07E76CB55353837C22265D08D1C"
+    }
+  ]
+}
